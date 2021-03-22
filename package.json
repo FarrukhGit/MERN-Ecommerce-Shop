@@ -1,0 +1,22 @@
+{
+  "name": "mern-ecommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FarrukhGit/MERN-Ecommerce-Shop.git"
+  },
+  "author": "Farrukh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FarrukhGit/MERN-Ecommerce-Shop/issues"
+  },
+  "homepage": "https://github.com/FarrukhGit/MERN-Ecommerce-Shop#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
